@@ -151,7 +151,6 @@ body::-webkit-scrollbar{
     top:0px;
     
 }
-
 .wrapper>header>nav>.right>.notification>.trailer{
     width:400px;
     height : 600px;
@@ -398,6 +397,7 @@ body::-webkit-scrollbar{
 .wrapper>main>section.sub-01>label.next{
     right:0px;
 }
+
 .wrapper>main>section.sub-01>input#sub-01-next:checked~.slider-block>.slider{
     transform:translate(-100%) !important;
 }
