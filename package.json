@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  },
+  "homepage": "https://PROJECTLIST2024.github.io/NETFLEX_CLON",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
